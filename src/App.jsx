@@ -38,11 +38,11 @@ setupIonicReact();
 const App = () => (
   <IonApp>
     <IonHeader className="centered-header ion-padding ">
-      <IonTitle className="text-center"> this is my title, hi man </IonTitle>
+      <IonTitle className="text-center"> this is my title </IonTitle>
     </IonHeader>
     <IonContent>
   
-    <h1>hasasfasfkw</h1>
+    <h1>H1 Tag</h1>
     
     </IonContent>
   </IonApp>
